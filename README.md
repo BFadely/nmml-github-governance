@@ -1,4 +1,4 @@
-NOAA-github-implementation
+DRAFT Guide for Implementing GitHub Use by NOAA Scientists and Users
 ==========================
 
 DRAFT guidelines for implementing use of github within NOAA. Specific emphasis on use be science developers and open-source software developers.
